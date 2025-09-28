@@ -6,3 +6,4 @@ provider "aws" {
 resource "aws_account_alternate_contact" "name" {
   
 }
+resources
